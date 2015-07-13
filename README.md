@@ -1,13 +1,10 @@
 # Data-User-Guides
-Data User Guides for the Western PA Regional Data Center
 
 This is the data user guide repository for the Western Pennsylvania Regional Data Center. 
 
 Purpose: User guides are designed to go beyond metadata and give data users a sense of the purpose for which the data was collected, the business processes, software, and applicable standards involved, suggested applications for the data (and how to use it), and other details that will improve the users’ experience.
 
 Format:
-
-Name
 
 1. Original Purpose and Applications 
 Describe why the data exists and how it is used (original purpose). 
