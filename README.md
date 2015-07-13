@@ -16,13 +16,13 @@ Describe how long this version of the data format has been in existence.
 Are there any issues related to the organization and how it operates that may impact the nature and quality of the dataset? Can relate to budget, staffing, mandates, etc.
 
 4. Work flow
-Describe from start to finish how this dataset is created and updated, and by whom. Also outline the business processes are tied to this dataset. Mention if it is built-on other datasets. Is this data used in any other work flows not related to its original purpose
+Describe from start to finish how this dataset is created and updated, and by whom. What technologies are involved? Outline the business processes are tied to this dataset. Mention if it is built-on other datasets. Is this data used in any other work flows not related to its original purpose
 
 5. Standards and formats
 Is this dataset based on an existing standard, and who created this particular format.
 
 6. Limitations
-Are there any other limitations or details related to this dataset that limit its use and interpretation?
+Are there any other limitations or details related to this dataset that limit or guide its use and interpretation?
 
 7. Additional Applications
 How have others made use of this data? Can anyone else interested in using this data get ideas from others working with the data?
