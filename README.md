@@ -6,27 +6,27 @@ Purpose: User guides are designed to go beyond metadata and give data users a se
 
 Format:
 
-<B>1. Original Purpose and Applications:  </B>
+<B>1. Original Purpose and Application:  </B>
 Describe why the data exists and how it is used (original purpose). 
 
-2. History and current format: 
+<B>2. History and current format: </B>
 Describe how long this version of the data format has been in existence. 
 
-3. Organizational context: 
+<B>3. Organizational context: </B>
 Are there any issues related to the organization and how it operates that may impact the nature and quality of the dataset? Can relate to budget, staffing, mandates, etc.
 
-4. Work flow: 
+<B>4. Work flow: </B>
 Describe from start to finish how this dataset is created and updated, and by whom. What technologies are involved? Outline the business processes are tied to this dataset. Mention if it is built-on other datasets. Is this data used in any other work flows not related to its original purpose
 
-5. Standards and formats: 
+<B>5. Standards and formats: </B>
 Is this dataset based on an existing standard, and who created this particular format?
 
-6. Things to know about the data, including limitations: 
+<B>6. Things to know about the data, including limitations: </B>
 Are there any other limitations or details related to this dataset that limit or guide its use and interpretation?
 
-7. Additional Applications: 
+<B>7. Additional Applications: </B>
 How have others made use of this data? Can anyone else interested in using this data get ideas from others working with the data?
 
-8. Appendix - listing of field values, codebook, etc.
+<B>8. Appendix - listing of field values, codebook, etc.</B>
 
-9. Sources/Acknowledgements
+<B>9. Sources/Acknowledgements</B>
