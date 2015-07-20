@@ -6,7 +6,7 @@ Purpose: User guides are designed to go beyond metadata and give data users a se
 
 Format:
 
-1. Original Purpose and Applications:  
+<B>1. Original Purpose and Applications:  </B>
 Describe why the data exists and how it is used (original purpose). 
 
 2. History and current format: 
@@ -21,10 +21,12 @@ Describe from start to finish how this dataset is created and updated, and by wh
 5. Standards and formats: 
 Is this dataset based on an existing standard, and who created this particular format?
 
-6. Limitations: 
+6. Things to know about the data, including limitations: 
 Are there any other limitations or details related to this dataset that limit or guide its use and interpretation?
 
 7. Additional Applications: 
 How have others made use of this data? Can anyone else interested in using this data get ideas from others working with the data?
 
-8. Sources
+8. Appendix - listing of field values, codebook, etc.
+
+9. Sources/Acknowledgements
