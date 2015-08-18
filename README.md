@@ -21,7 +21,7 @@ Describe from start to finish how this dataset is created and updated, and by wh
 <B>5. Things to know about the data, including limitations: </B>
 Are there any other limitations or details related to this dataset that limit or guide its use and interpretation?
 
-<B>6. Additional Applications: </B>
+<B>6. Additional applications: </B>
 How have others made use of this data? Can anyone else interested in using this data get ideas from others working with the data?
 
 <B>7. Appendix - listing of field values, codebook, etc.</B>
