@@ -6,7 +6,7 @@ Purpose: User guides are designed to go beyond metadata and give data users a se
 
 Format:
 
-<B>1. Original Purpose and Application:  </B>
+<B>1. Original purpose and application:  </B>
 Describe why the data exists and how it is used (original purpose). 
 
 <B>2. History, standards, and format: </B>
