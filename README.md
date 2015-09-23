@@ -25,5 +25,6 @@ Are there any other limitations or details related to this dataset that limit or
 How have others made use of this data? Can anyone else interested in using this data get ideas from others working with the data?
 
 <B>7. Appendix - listing of field values, codebook, etc.</B>
+If this is included on the open data portal, a link to the dataset page can suffice.
 
 <B>8. Sources/Acknowledgements</B>
